@@ -97,7 +97,7 @@ h2 {
 
 .Bildgalleri1 {
   display: flex;
-  flex: row;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   
@@ -105,12 +105,11 @@ h2 {
 }
 
 .image-container{
-  height: 30%;
-  width: 30%;
+  width: 100%;
 }
 .MosesStart{
-  height: 10%;
-  width: 10%;
+  height: 50%;
+  width: 50%;
 }
 
 
