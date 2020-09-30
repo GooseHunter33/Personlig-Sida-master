@@ -88,9 +88,14 @@ footer {
 
 li {
   padding-bottom: 25px;
+  list-style: none;
 }
 h2 {
   margin-top: 25px;
+  
+}
+.GillarHeader{
+font-size: 50px;
 }
 
 .List {
